@@ -1,3 +1,3 @@
 # Excel-H-M-Store-Sales-Analysis
 
-Excel project for H-M-Store-Sales-Analysis for last year
+This is an excel project for H-M-Store-Sales-Analysis for last year
